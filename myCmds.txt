@@ -1,0 +1,1 @@
+./kafka_2.13-3.1.0/bin/kafka-topics.sh --command-config playground.config --bootstrap-server renewed-sponge-6078-eu1-kafka.upstash.io:9092
